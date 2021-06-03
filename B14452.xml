@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters: One written by a Protestant to his brother being a Papist, to withdraw him foorth of the countrie of the Papists, who was partly by him perswaded, but that his wealth made him peremptorie, wherupon he tooke occasion to vvrite this letter, to moue him rather to make choice of the kingdome of God, then the riches of the vvorld. The other written by Master Ramon, a minister of the word of God, being prisoner in the citie of Valencia, to his wife being in London, to comfort her; who after suffered for the gospell. Translated out of French</title>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14452</idno><idno type="EEBO-CITATION">99838822</idno>
+  <idno type="VID">177126</idno>
+  <idno type="EEBO-PROQUEST">2240888942</idno>
+  <idno type="STC">STC 15529</idno>
+  <idno type="STC">ESTC S103063</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838822e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 843:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters: One written by a Protestant to his brother being a Papist, to withdraw him foorth of the countrie of the Papists, who was partly by him perswaded, but that his wealth made him peremptorie, wherupon he tooke occasion to vvrite this letter, to moue him rather to make choice of the kingdome of God, then the riches of the vvorld. The other written by Master Ramon, a minister of the word of God, being prisoner in the citie of Valencia, to his wife being in London, to comfort her; who after suffered for the gospell. Translated out of French</title>
+                  <author>Ramon, Master. aut</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>By T. Este for Mathew Law,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴ C² .</note>
+                  <note>"A letter vvritten by Master Ramon a minister of the word of God, prisoner in Valencia, to his wife in London" has caption title.</note>
+                  <note>Print faded and show-through; title page marked.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177126:1"/>
+            <pb facs="tcp:177126:1"/>
+            <p>Tvvo Letters: One written by a Protestant to his brother being a Papist, to with<g ref="char:EOLhyphen"/>draw him foorth of the countrie of the Papists, who was partly by him perswaded, but that his wealth made him peremptorie, whervpon he tooke oc<g ref="char:EOLhyphen"/>casion to vvrite this letter, to moue him rather to make choice of the king<g ref="char:EOLhyphen"/>dome of God, then the riches of the vvorld.</p>
+            <p>The other written by Master <hi>Ramon,</hi> a Minister of the word of God, being prisoner in the Citie of Valencia, to his wife being in London, to comfort her; who after suffered for the Gospell.</p>
+            <p>Translated out of French.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Imprinted at London by T. Este for Mathew Law. 1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:177126:2"/>
+            <pb facs="tcp:177126:2"/>
+            <head>A Letter vvritten from a Pro<g ref="char:EOLhyphen"/>testant, to his brother being a Papist.</head>
+            <head type="sub">Grace and peace through Iesus Christ.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Ost deare and welbeloued bro<g ref="char:EOLhyphen"/>ther,</salute>
+            </opener>
+            <p>with all my heart I recom<g ref="char:EOLhyphen"/>mend mee vnto you, and to my indeered sister your wife; may it please you to vnderstand that wee are heere arriued the 11. of Octo. in good &amp; perfect health, the Lord bee praised, who hath shewed vnto vs such great mercie, in withdrawing vs from thence, to the end to bring vs into the land of promise, that happie land, where his Magestie is glo<g ref="char:EOLhyphen"/>rified, and his name vnfainedlie and purelie called on, euen as hee hath commanded by his holy word. Now therefore wee are meruailouslie bound to ac<g ref="char:EOLhyphen"/>knowledge this vnestimable mercie, for he hath not onely giuen vs the knowledge of the right way, to at<g ref="char:EOLhyphen"/>taine
+<pb facs="tcp:177126:3"/>&amp; come to that life that endureth world with<g ref="char:EOLhyphen"/>out end, but also he hath lead and conducted vs in this way by his holy Ghost, and animated and as it were thrusted vs forward in his loue, that we make no estimation either of our parents, friends, lands, possessions, or riches, but as a small shaddow and of no continuance, but altogether vncertaine, and not to bee compared to one of the smallest spirituall guifts: He hath giuen vs to vnderstand I say, that all this is nothing to be compared with the life eternal and euerlasting. For <hi>Dauid</hi> saith, <hi>that a thousand yeares before the Lord are but a minute,</hi> therefore the Lord be praised, who doth print such comfort for our soules in our harts, and giueth vs power to resist against all assaults and promises, which the flesh doth oppose a<g ref="char:EOLhyphen"/>gainst vs, and sets before our eyes, for if we will tast of the euerlasting lyfe, there is no other way than the very selfesame which the sonne of GOD hath shewed vnto vs, to wit, as he saith, he that shall not forsake father, mother, brother, sister, lands &amp; goods, and all he hath for my names sake, he is not worthy of mee; and whosoeuer taketh not his crosse vpon him forsaking himselfe to follow mee, he is not wor<g ref="char:EOLhyphen"/>thie to be my disciple; and all these words doe pro<g ref="char:EOLhyphen"/>ceed from the mouth of the sonne of God, the one<g ref="char:EOLhyphen"/>ly almightie and euerliuing God.</p>
+            <p>O my brother, what think you to doe, doe you think that the sonne of God is a lyar? no, no, he can not lye. Oh my most affected brother, will you not haue pittie of your soule, shall the world and the flesh seduce &amp; miscarry you alwaies to the end of your life.
+<pb facs="tcp:177126:3"/>Doe you not feare that the Lord shall take you as the sleepie and vnigatchfull sernant, and as the fiue foo<g ref="char:EOLhyphen"/>lish &amp; carelesse virgine, the Lord, the Lord will come in the time when you think not vpon it: O what griefe! what lamentation will you make then? For you will haue in abhomination and curse, all the goods of this wicked world, seeing they haue bene the onely and originall cause of your destruction &amp; perdition, in respect and for that, the Lord of might had giuen them vnto you to serue and apply them to his glorie. And moreouer, all the warnings and ad<g ref="char:EOLhyphen"/>monitions which you haue had, and promises which you made vnto God when you were visited with sicknesse, those wil crye vengeance, vengeance against you, before the highest.</p>
+            <p>O my brother, consider that the way is large and broad which leadeth to perdition, and many ther are that doe finde it, but the way which bringeth and leadeth to the lyfe eternall of all felicitie, is narrow, and few they are that enter the same, for that is full of thornes &amp; troublesome to passe. Oh my brother, will you be one of them that walke the broade and wide way? God forbid. Therfore doe not flatter your selfe, nor doe not fashion your selfe to tread any o<g ref="char:EOLhyphen"/>ther way than that which Iesus Christ hath shewed vnto all his beloued. What? for getting or purcha<g ref="char:EOLhyphen"/>cing one foot of land, will you loose a kingdome? No, no, be not so foolish, for it will cost you deere; you will not onely lament with exceeding griefe, but also vse thextremitie of sorrow in wringing your distempered hands.</p>
+            <pb facs="tcp:177126:4"/>
+            <p> And yet it will then bee too late, for when that is once lost, man can not recouer it againe, therefore being yet time enough, and that God almightie doth shew his great mercy vpon you, to giue you time to thinke on that which you ought to doe, I meane your soules saluation, and that hee will not see you perish headlong, but rather hath stirred me vp, and prouoked mee at this time to write vnto you this let<g ref="char:EOLhyphen"/>ter, for your great good, or for your condemnation, for if this admonition and warning will not profit and take effect, insomuch that it doth not goe to the very bottome of your hart, surely that will turne to your condemnation, and will crie vengeance against you, at the day of Iudgement, when there can be no excuse heard whatsoeuer.</p>
+            <p>Now then my deere brother, will you be so foo<g ref="char:EOLhyphen"/>lish to leaue and loose a kingdome, which is not for twentie, thirtie or a hundred yeares, but a kingdome euerlasting and without end? and more ouer the ioy contained within the circute of that heauenly region, which no man can expresse, for that it is incompre<g ref="char:EOLhyphen"/>hensible; Note further yet, hee that shall not enioy and be partaker of this great pleasure and loy, yet the want thereof shall not bee sufficient punishment and reward, but he shall endure intollerable fearefull and terrible torments and paines, that in regard that the joy is great, euen so the torment is greater, and that which is more terrible, without end. Wher then shall they looke for fathers, mothers, brothers, sisters, kinsmen and friends, the rents and heritages, and all the goods of the world, that before time were so
+<pb facs="tcp:177126:4"/>deere vnto them, where then I say shall they looke for them? alas, nothing in the world can then help them, but all their worldlie comfort will then crie vengeance against thēselues, because they haue more loued and obeyed their goods, then the almightie.</p>
+            <p>Oh what horrour, what discomfort will it bee, that you must loose the euerlasting life without end, because you haue loued more the goods of this world which vanish and passe away like cloudes, then the joyes of heauen, which are of as long continu<g ref="char:EOLhyphen"/>ance as heauen it selfe. Commit these words to me<g ref="char:EOLhyphen"/>morie, and giue thy meditation charge of them my brother, shew that you will not be one of those, but learne and listen to the word of the sonne of God, which hee himselfe with his mouth hath spoken, doe not hold him for a liar, and his word as a fable, for it will cost you deere; consider the threatnings which hee made against them that loued more the goods of the world, then their sauiour, that would rather please and obey their fathers, mothers, &amp; their possessions, then him, I meane their redeemer: and mark againe the promises which hee made to those that doe follow him, and that would rather please and obey him then their flesh and goods. O my bro<g ref="char:EOLhyphen"/>ther encourage your selfe, doe not sleepe and roote your selfe in these worldlie goods, leaue them as soone as you can, for feare the Lord doe not giue you leasure to repent, doe not you appoint him the day, for hee will not giue it you, cut cut this knot, for you will not bee able at your pleasure to vntie the same: you haue made so many promises to God
+<pb facs="tcp:177126:5"/>and vs, and yet alwaies still you fall a sleepe againe, and slacke in your promises.</p>
+            <p>Take heede, take heede, that the Lord doth not at this time anger himselfe bitterly against you: Ther<g ref="char:EOLhyphen"/>fore my deerely beloued brother, encourage your selfe, awake and pray vnto the Lord without ceasing to assist you and to giue you strength and meanes to obey his will, for you shall haue manie tempra<g ref="char:EOLhyphen"/>tions, but doe you resist them with praiers, and the Lord will deliuer you from them, for hee hath pro<g ref="char:EOLhyphen"/>mised it, and hee is the truth himselfe, seeing you aske of him things streaching to his glorie, and in respect that this is to his glorie, which I intreat you to performe, he will reioyce at your reformation. Combute Combute then and God will assist you, and when you shall haue gotten the viorbrie you shall feele daielie that the graces of God doe mul<g ref="char:EOLhyphen"/>tiplie in you, and you would not for all the goods of the world after, but that you had fought &amp; gotten the victorie, resist then against all with praiers, and the Lord will deliuer you from all, for surelie bro<g ref="char:EOLhyphen"/>ther you doe not liue there where you are, but you die euerie daie, and if the Lord should call you one of the world in such estate, I should bee exceeding sorie for it, and it should much greeue mee;</p>
+            <p>You may perhaps here vpon thus argue, my father and mother are they then lost, I will not indge it for God is the iudge thereof, but it is an other ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter with you, for you cannot excuse your selfe if you doe hide in the ground, the talent vvhich the Lord hath giuen you, through his mercie: but God forbids
+<pb facs="tcp:177126:5"/>that you should doe so but rather let your talent doe profit, that the Lord may say vnto you, good ser<g ref="char:EOLhyphen"/>uant, thou hast beene faithfull in a small thing, I vvill set you about a greater thing, come enter thou into the joy of my kingdome.</p>
+            <p>But he that shall hide his talent in the ground, he shall bee cast into extreame darkenesse, where there shall bee vveeping and gnashing of teeth. Therefore my brother doe not couer your talent in the ground, but turne it to profit, &amp; halt no more on both sides, serue no longer god and the world, for you cannot please them both, nor ferue two masters; mark that which is written in Apocalipsi, <hi>That God will cast out of his mouth him that shalbe luke warme, neither cold nor hot.</hi> Feare feare then to be cast out of the mouth of God, for perdition followes. O my deere brother, encourage your selfe, and pray without ceasing, bee not the stones, but the good ground, let not the seed fall vpon the stones, or in the way, as it hath done at other tymes; you haue receaued the word, you haue bene resolued to make an ende, but that same hath not taken roote, for incontinently the Sunne, that is to say, temptation came, or the diuell came, who toke this seede, and you went alwaies backwards, &amp; was very vntoward, when God did so sweetly inuite you, and reach his hand so louingly vnto you.</p>
+            <p>What brother? will you refuse him, will you be so foolish to forsake the hand of God? O no, no, but be more vertuous, and shew the true marks that you are one of the chosen and elected of your maker, the liuing God, and that your name is written in the
+<pb facs="tcp:177126:6"/>booke of life, shew that you are one of them that shalbe a King triumphing with the Sonne of the Father for euer. And now my deare brother I will make an end for this time, praying you in the name of God, to take this admonition and warning in good part, of the hand of God, for doubtlesse God himselfe hath stirred mee vp and moued mee there<g ref="char:EOLhyphen"/>vnto, for the great desire and loue I beare for your saluation, and great feare which I haue of your con<g ref="char:EOLhyphen"/>demnation.</p>
+            <p>Therefore I pray you doe not thinke that it is I which send it, but the Lord your Father, who gladlie would not loose a soule, but worke him vn<g ref="char:EOLhyphen"/>to repentance, and true knowledge of his saluation: for surelie it is much to say, that you haue true knowledge of your saluation, I meane such as you ought to haue; I know it by my selfe, therefore the Lord hath shewed great mercie vnto me, that hee hath brought mee to them whom hee hath or<g ref="char:EOLhyphen"/>dained to instruct mee therein, the Lord bee pray<g ref="char:EOLhyphen"/>sed and thanked therefore.</p>
+            <p>And it will bee also a great signe of Gods grace toward you, if hee shall vouchsafe to vvithdraw you from thence, to the end that you may be one of his faithfull seruants, the Lord send you grace there<g ref="char:EOLhyphen"/>vnto through his great mercie, and that hee will giue mee grace to pray hartelie for you, euen as I doe dailie without ceasing, but take heede that our prayers bee not in vaine, and vnfruitfull, for if you doe not put the hand to worke, all our hartie pray<g ref="char:EOLhyphen"/>ing vvill proue vnprofitable and nothing auaileable.</p>
+            <pb facs="tcp:177126:6"/>
+            <p> Fulfill and accomplish then that desire vvhich wee haue of your saluation, for truely brother if I were not desirous of your saluation, I would not haue writ this vnto you now, therefore take it in good part, and make vse of my loue, my good counsell, and bro<g ref="char:EOLhyphen"/>therlie admonitions. Farewell.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:177126:7"/>
+            <pb facs="tcp:177126:7"/>
+            <head>A Letter vvritten by Master <hi>Ramon</hi> a Minister of the word of <hi>God, prisoner in Valencia, to his wife in London.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">K</seg>Atherine Ramon</hi> my deere and welbe<g ref="char:EOLhyphen"/>loued spouse, &amp; sister in our Lord Iesus Christ,</salute>
+            </opener>
+            <p>the great griefe and dolour per<g ref="char:EOLhyphen"/>turbing and troubling somewhat my content, ioy, &amp; the gladnes of my hart, which I haue in the Lord God, hath caused mee to write vnto you these presents, aswell for your owne as my comfort, I say especially for your comfort, because that you haue alwaies loued me with a most sincere affection. And therefore since at this present it hath pleased the Lord to make a di<g ref="char:EOLhyphen"/>uision &amp; seperation betweene vs, one from another, for which seperation I doe feele more your bitter<g ref="char:EOLhyphen"/>nesse sorrow and griefe, then mine owne.</p>
+            <p>I most hartely pray you as much as I may, not to trouble your selfe with griefe aboue measure, least you offend God. You know very well that when you did marry me you tooke a mortall husband, who was vncertaine to liue a minute of an houre, but yet it hath pleased our eternall Father, to suffer vs to liue to gether about the space of seauen yeeres, sending vs fiue children. If it had ben the Lords will we should haue liued together any longer, he might haue done it, but it hath not pleased him, therefore his holy will bee done.</p>
+            <pb facs="tcp:177126:8"/>
+            <p> you must consider also, that I am not fallen into the hands of myne enemies; by casualtie or chance, but by the diuine prouidence of God, which ruleth and gouerneth all things, aswell the lesse, as greater; as it appeareth by the words of our Sauiour, <hi>Your haires are numbred, feare not, are not two Sparrowes sold for a halfepeny, and none of them shall fall on the earth without the prouidence of God, feare not then, you are more exce<g ref="char:EOLhyphen"/>lent than any Sparowes.</hi> Which of vs is estemed les<g ref="char:EOLhyphen"/>ser than an haire, and yet peruse the diuine writ of the wise, and you shall reade, that GOD hath enre<g ref="char:EOLhyphen"/>gistred the number of mans haires; how can then a<g ref="char:EOLhyphen"/>ny aduersitie happen vnto mee without the will and prouidence of God: sure I perswade my selfe that cannot bee, except one would saye, that God were not God.</p>
+            <p>And therefore the Prophet saith, <hi>There is no ad<g ref="char:EOLhyphen"/>uersitie in the citie which the Lord hath not sent,</hi> and we see that in this doctrine all the holy men that haue bene before vs, haue comforted themselues in their afflictions and tribulations. <hi>Ioseph</hi> beeing sold into Egipt by his brethren sayd, you haue done ill, but God will turne it to your good, God hath sent me before you into Egipt for your good.</p>
+            <p>As much did <hi>Dauid</hi> with <hi>Semey</hi> who cursed him; the lyke dyd <hi>Iob,</hi> and also consequently all other, and this is the cause that the Euangelistes (treating so faithfully of the suffering and death of the Lord Te<g ref="char:EOLhyphen"/>sus Christ) doe say that this is done because that might be fulfilled which is written of him, and might also be truely sayd of all the members of him.</p>
+            <pb facs="tcp:177126:8"/>
+            <p> It is very true that, humane reason doth striue against this doctrine, and doth resist against it as much as she can, and I found it by experience, when I was appre<g ref="char:EOLhyphen"/>hended, I sayd vnto my selfe, we haue not well done to walke by great troopes together, we haue bene betrayed by such and such one, we ought not haue stayed any where, and with the cogitations thereof, I was ouerwhelmed and troubled in my thoughts, vntill I had lifted vp my hart &amp; spirit higher to the meditation of the diuine prouidence of God, then began my hart to feele a meruailous rest, and like<g ref="char:EOLhyphen"/>wise to say to my God, thou hast caused mee to be borne in the time &amp; houre which thou hast ordained for mee, and during all the terme &amp; time of my mor<g ref="char:EOLhyphen"/>tall lyfe, thou hast kept &amp; miraculously preserued me from the threatning terror of daunger, &amp; if now my houre be come to depart out of this life, &amp; to attaine the height of happinesse in thy kingdome, thy will be done my Sauiour, my soule therby reaps rest and con<g ref="char:EOLhyphen"/>tent, because it is my felicitie to bee conformed to thy will.</p>
+            <p>All these considerations came into my heart, whereat my spirit rejoyced; and I pray you my deere and welbeloued wise to rejoyce with mee, and to thank god the almightie, for that which he entendeth toward me, for hee doth nothing but that which is just, &amp; according to equitie, &amp; so especially you ought to rejoyce your selfe, because it is for my good and quiet of my soule: you haue heeretofore ben pertaker of some of my troubles, when you bare me company in my trauailing, during the time of my exile.</p>
+            <pb facs="tcp:177126:9"/>
+            <p> And seeing the Lord will lend me his hand, to leade me into his kingdome; blessed I am that goe before you, and when it shall please God, you shall follow me; this seperation wil not be long, the Lord will cal you to ioyne vs together with Iesus Christ. This is not the place of our habitation, but in heauen; heere on earth is but the place of our pilgrimage, therfore let vs aspire to our owne coūtry, which is in heauen, and let vs desire to be receiued in the house of our father; yea; our brother, head &amp; sauiout, Iesus Christ, to see the most noble company of the patriarches, pro<g ref="char:EOLunhyphen"/>phets, apostles &amp; so many thousand martirs, in whose company I hope to be receaued, when I haue atchi<g ref="char:EOLhyphen"/>ued my course of administration which I haue recea<g ref="char:EOLhyphen"/>ued from the Lord Iesus Christ: I pray you then my sister and friend, that you will comfort your soule in the meditation of those things, consider the honour which God hath shewed vnto you, in that he hath giuen you a husband who is not onely a minister of the sonne of God, but also in high estimation with his father, and besides that, it hath pleased him to vouchsafe to make mee a partaker with the crowne of martyrdome, it is such an honour, that he sheweth not the like vnto his Angels. I am glad, and my hart is merry, I lack nothing in my afflictions, I am satis<g ref="char:EOLhyphen"/>fied with the store of heauenly riches, I am so com<g ref="char:EOLhyphen"/>forted, that I haue enough for my selfe, and for all to whome I can haue sufferance to speake; I praise the Lord for it, and beseech him that he will continue his goodnesse and fatherly clemencie towards me his pri<g ref="char:EOLhyphen"/>soner, which as I hope he will, for I doe finde by ex<g ref="char:EOLhyphen"/>perience,
+<pb facs="tcp:177126:9"/>that hee neuer will forsake such as trust in him, I had neuer thought that God had beene so meeke and good to such a poore creature as I am, I feele now the faithfulnesse of the Lord Iesus Christ, I doe practise now that which I haue preached, I did speak as a painted Angell in regard of that which I do feele now in this practise, I haue prospered &amp; learned more since I haue beene prisoner; then I haue done in all my life time; I am in a very good schoole, the holie ghost is continually with mee, and doth inspire and teach me to vse the weapons in this combat.</p>
+            <p>On the other side Sathan, the aduersarie &amp; enimie of all the children of God, doth tempt mee, compas<g ref="char:EOLhyphen"/>sing me round about, like a roaring Lion, to destroy me, but hee that said vnto me (feare not I haue ouer<g ref="char:EOLhyphen"/>come the world) maketh me victorious. I see the most of power my sacred Father to tread sathan vnder my feete, &amp; I do feele the power of God to strengthen my infirmitie and weaknesse, and on the one side the Lord God doth shew me, that I am a poore fraile earthen vessell, to thend I should humble my selfe, &amp; that all the glorie of the victorie should be ascribed to him. On the other side he doth so strengthen and comfort me, that I am better at my case then the eni<g ref="char:EOLhyphen"/>mies of the gospell; I doe eate, drinke, and rest better then they doe; I am lodged in a place a strong house, darke and tenebrous, which for his darkenes sake they call it <hi>Breuuain;</hi> I haue the aire and light but through a little stinking hole, where through they cast all fil<g ref="char:EOLhyphen"/>thinesse; I haue great irons on my feet &amp; hands which do serue me for a continuall hell, fretting &amp; pearcing
+<pb facs="tcp:177126:10"/>into my flesh to the very bones. Then the Prouost of the Marshall commeth to visit me &amp; my brethren twise or thrise a day, fearing that I might escape, they haue three guardes before the prison gate, euery one of foure men.</p>
+            <p>
+               <hi>Monsieur de Harmeyde</hi> commeth also to visit mee, who doth comfort me and exhort me to patience, as he saith, but he commeth most commonly after din<g ref="char:EOLhyphen"/>ner, when the wine is in his head and the belly full. You may well thinke what comfort it is vnto mee, when hee doth threaten and tell mee, that if I proffer the least shew for an escape, that hee will chaine me by the neck, body and legges, so that I shall not bee able to stirre me, and many other such like threatning words. But for all that my God doth not forget me, to keepe his promise and to comfort my hart, giuing me great contentment, as hee teacheth vs by the mouth of the Prophet <hi>Dauid,</hi> saying: <hi>I am with you when you are in tribulation.</hi> And in another place, <hi>can a mother forget her childe? and though shee should forget it, yet I will neuer forget you.</hi>
+            </p>
+            <p>Seeing than that the Lord doth neuer forsake vs, therfore good sister and faithful spouse, I pray you to be comforted in the Lord, in your afflictions, &amp; to commit to his protection &amp; gouernment, both your selfe &amp; all your actions, for he is a husband to faith<g ref="char:EOLhyphen"/>full widowes, and a father to the fatherlesse children, he will neuer forsake you, and thereof I am most cer<g ref="char:EOLhyphen"/>tain; behaue your selfe alwaies as an honest christian and faithfull woman, in the feare of God, as you he<g ref="char:EOLhyphen"/>therto haue done, &amp; honour as much as in you lieth
+<pb facs="tcp:177126:10"/>and shalbe possible by your good conuersation, the doctrine of the sonne of God, which I your husband haue preached. And euen as you alwaies haue loued me most deerely, euen so I hartely pray you, that you will continue the like loue towards your small chil<g ref="char:EOLhyphen"/>dren, instruct them in the feare &amp; knowledge of our true God, &amp; his sonne Iesus Christ, be you their fa<g ref="char:EOLhyphen"/>ther and mother, &amp; looke that they may be brought vp honestly with that litle which god hath giuen you. If it shall please god to giue you grace after my de<g ref="char:EOLhyphen"/>cease, to liue in widowhood with your litle children, you shall doe verie well, if you can not, and that the meanes do faile you, looke that you doe match with an honest and faithfull man, one that feareth God, &amp; one of whom you haue heard good report, &amp; when I shal haue better meanes, I wil write vnto our friends to haue a special care for you, as I hope they wil not forsake you. You may if you please, fal to your former trade, after that the Lord shal call me, &amp; for your bet<g ref="char:EOLhyphen"/>ter cōfort, you shal haue our daughter <hi>Sara</hi> to keepe you company, and to assist you in your afflictions, &amp; comfort you in your tribulations, &amp; my hope is, God will be alwaies with you. Salute all our good friends in my name, and desire them to pray for me, that the Lord will giue me strength and wisedome, to open my mouth to maintaine the truth, of the sonne of God, to the very end, and the last gaspe of my lyfe. Farewell <hi>Katherin,</hi> my most deerest friend, I pray God to comfort you as long as I am in this world. Deere, keepe this letter for my remembrance. It is not well written, but as I can it is, &amp; not as I would, I pray you
+<pb facs="tcp:177126:11"/>commend me to your good mother, desire her that she be of good cheere, I hope to write her some let<g ref="char:EOLhyphen"/>ter of comfort, when it shal please God; salute also my good sister, will her to take all her afflictions paciently; and so fare you well,</p>
+            <closer>
+               <dateline>out of the prison of Va<g ref="char:EOLhyphen"/>lencia, <date>the 12. day of Aprill.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:177126:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
